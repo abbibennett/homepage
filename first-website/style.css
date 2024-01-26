@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(243, 232, 240);
+}
+
+p {
+    color:red;
+    font-size:30px;
+    background-color:rgb(245, 204, 226);
+    border: 5px dotted;
+    font-family:;
+}
+h1{
+    color:rgb(250, 136, 197);
+}
+h2{
+    color:red;
+
+}
+ul{
+    color:darkblue;
+    font-size: 22px;
+    text-decoration: none;
+}
+ol {
+    color: darkblue;
+    font-size:22px;
+    text-decoration: none;
+}
